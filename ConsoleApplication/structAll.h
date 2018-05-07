@@ -1,6 +1,6 @@
 #pragma once
-#ifndef B_H_  
-#define B_H_ 
+#ifndef STRUCTALL_H  
+#define STRUCTALL_H 
 
 int descLimit();
 

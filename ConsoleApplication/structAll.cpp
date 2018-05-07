@@ -54,6 +54,5 @@ int descLimit()
 	// << "\t最大值：" << (numeric_limits<string>::max)() << "\t最小值：" << (numeric_limits<string>::min)() << endl;  
 	cout << "type: \t\t" << "************size**************" << endl;
 
-	system("pause");  //方便观察结果
 	return 0;
 }
