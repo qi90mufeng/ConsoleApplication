@@ -1,0 +1,17 @@
+*.d
+*.obj
+*.o
+*.tlog
+*.lastbuildstate
+*.idb
+*.pdb
+*~
+*.swp
+.gitattributes
+.vs/*
+**/Debug/*
+**/Release/*
+**/*.user
+**/*.vcxproj
+**/*.filters
+*.sln
